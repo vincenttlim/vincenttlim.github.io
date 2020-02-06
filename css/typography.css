@@ -1,0 +1,133 @@
+nav {
+  font-family: 'Segoe-UI', Sans-Serif;
+  font-size: 30vwpx;
+  text-transform: uppercase;
+  padding: 10px;
+  text-align: center;
+  
+}
+
+nav main a {
+  color: white;
+}
+
+
+h1 {
+  font-family: 'Segoe-UI', Sans-Serif;
+  font-size: 100px;
+  text-transform: uppercase;
+}
+
+h2 {
+  font-family: 'Calibri', Sans-Serif;
+  font-size: 26px;
+  text-transform: uppercase;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: 'Calibri', Sans-Serif;
+  text-transform: uppercase;
+  font-size: 13px;
+}
+
+p {
+  font-family: Sans-Serif;
+  font-size: 13px;
+  padding-bottom: 10px;
+}
+
+.card.wide h2 {
+  text-align: center;
+  font-size: 40px;
+}
+
+.card.wider h2 {
+  text-align: center;
+  font-size: 40px;
+}
+
+.card.widen h2 {
+  text-align: center;
+  font-size: 40px;
+}
+
+.main_container h1 {
+  text-align: center;
+}
+
+.main_containerz h1 {
+  text-align: center;
+}
+
+.dalamcard {
+  text-align: center;
+  color: white;
+}
+  
+.card.desta1 {
+  text-align: center;
+  color: white;
+}
+
+.card.desta2 {
+  text-align: center;
+  color: white;
+}
+
+.card.desta3 {
+  text-align: center;
+  color: white;
+}
+
+@media (max-width: 1024px) {
+  
+  h1 {
+    font-family: 'Segoe-UI', Sans-Serif;
+    font-size: 12vw;
+    text-transform: uppercase;
+  }
+  
+  h2 {
+    font-family: 'Calibri', Sans-Serif;
+    font-size: 2.8vw;
+    text-transform: uppercase;
+    padding-bottom: 10px;
+  }
+  
+  h3 {
+    font-family: 'Calibri', Sans-Serif;
+    text-transform: uppercase;
+    font-size: 1.5vw;
+  }
+  
+  p {
+    font-family: Sans-Serif;
+    font-size: 1.5vw;
+    padding-bottom: 10px;
+  }
+  
+  .card.wide h2 {
+    text-align: center;
+    font-size: 6vw;
+  }
+  
+    .card.widen h2 {
+    text-align: center;
+    font-size: 6vw;
+  }
+  
+    .card.wider h2 {
+    text-align: center;
+    font-size: 6vw;
+  }
+  
+  .main_containerz h1 {
+  text-align: center;
+  
+}
+
+  
+}
+
+
