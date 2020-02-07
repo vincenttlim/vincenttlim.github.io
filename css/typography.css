@@ -104,7 +104,7 @@ p {
   p {
     font-family: Sans-Serif;
     font-size: 1.5vw;
-    padding-bottom: 10px;
+    padding-bottom: 0.5vh;
   }
   
   .card.wide h2 {
@@ -115,6 +115,12 @@ p {
     .card.widen h2 {
     text-align: center;
     font-size: 6vw;
+  }
+  
+    .card.widen p {
+    font-family: Sans-Serif;
+    font-size: 1.5vw;
+    padding-bottom: 1.5vh;
   }
   
     .card.wider h2 {

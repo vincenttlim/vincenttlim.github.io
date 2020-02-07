@@ -148,8 +148,10 @@ nav {
   
   .card.widen {
     height: 167.3vw;
-    margin-top : 0px;
-    width: 50vw;
+    width: 48vw;
+    margin-left: 1vw;
+    margin-right: 1vw;
+    margin-top: 0vw;
   
    }
    
@@ -174,20 +176,30 @@ nav {
    }
    
    .card.desta1 {
-    height: 45vw;
-    width: calc(50vw - 20px);
+    height: 55.1vw;
+    width: 48vw;
+    margin-left: 0vw;
+    margin-right: 1vw;
+    
   
    }
    
    .card.desta2 {
-    height: 45vw;
-    width: calc(50vw - 20px);
+    height: 55.1vw;
+    width: 48vw;
+    margin-left: 0vw;
+    margin-right: 1vw;
+    margin-top: 1vw;
   
    }
    
    .card.desta3 {
-    height: 45vw;
-    width: calc(50vw - 20px);
+    height: 55.1vw;
+    width: 48vw;
+    margin-left: 0vw;
+    margin-right: 1vw;
+    margin-top: 1vw;
+    
   
    }
    
@@ -206,40 +218,41 @@ nav {
    }
    
    .main_containerz {
-    width: 80vw;
+    width: 100vw;
     margin-left: auto;
     margin-right: auto;
    }
    
    .dalamcard {
     width: 60%;
-    margin-top : 200px;
+    margin-top : 102%;
     margin-left: auto;
     margin-right: auto;
     
    }
    
    .dalamcarddesta1 {
-  width: 60%;
-  margin-top : 140px;
+  width: 48vw;
+  margin-top : 85%;
   margin-left: auto;
   margin-right: auto;
   
 }
 
    .dalamcarddesta2 {
-  width: 60%;
-  margin-top : 140px;
+  width: 48vw;
+  margin-top : 85%;
   margin-left: auto;
   margin-right: auto;
   
 }
 
    .dalamcarddesta3 {
-  width: 60%;
-  margin-top : 140px;
+  width: 48vw;
+  margin-top : 85%;
   margin-left: auto;
   margin-right: auto;
+
   
 }
   
