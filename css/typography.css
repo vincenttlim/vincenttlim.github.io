@@ -1,34 +1,32 @@
-nav {
-  font-family: 'Segoe-UI', Sans-Serif;
-  font-size: 30vwpx;
-  text-transform: uppercase;
-  padding: 10px;
-  text-align: center;
-  
-}
-
-nav main a {
-  color: white;
-}
-
-
 h1 {
   font-family: 'Segoe-UI', Sans-Serif;
-  font-size: 100px;
   text-transform: uppercase;
+  font-size:10vw;
 }
 
 h2 {
   font-family: 'Calibri', Sans-Serif;
-  font-size: 26px;
+  font-size: 2.5vw;
   text-transform: uppercase;
-  padding-bottom: 10px;
 }
 
 h3 {
   font-family: 'Calibri', Sans-Serif;
-  text-transform: uppercase;
-  font-size: 13px;
+
+  font-size: 1.8vw;
+  font-weight: normal;
+}
+
+h4 {
+  font-family: 'futura', Sans-Serif;
+  font-size: 1.5vw;
+  font-weight: normal;
+}
+
+h5 {
+  font-family: 'futura', Sans-Serif;
+  font-size: 1.5vw;
+  font-weight: normal;
 }
 
 p {
@@ -37,103 +35,254 @@ p {
   padding-bottom: 10px;
 }
 
-.card.wide h2 {
-  text-align: center;
-  font-size: 40px;
-}
-
-.card.wider h2 {
-  text-align: center;
-  font-size: 40px;
-}
-
-.card.widen h2 {
-  text-align: center;
-  font-size: 40px;
-}
-
-.main_container h1 {
-  text-align: center;
-}
-
-.main_containerz h1 {
-  text-align: center;
-}
-
-.dalamcard {
-  text-align: center;
-  color: white;
-}
-  
-.card.desta1 {
+.menu4 {
+  font-family: 'futura', Sans-Serif;
+  font-size: 1.5vw;
+  font-weight: normal;
   text-align: center;
   color: white;
 }
 
-.card.desta2 {
+.main_container_homepage h1 {
+  padding-top: 2.5vw;
+}
+
+.card_homepage_top h1 {
+  text-align: center;
+  color: white ;
+  margin-top: 4vw;
+}
+
+.card_homepage_top h2 {
   text-align: center;
   color: white;
 }
 
-.card.desta3 {
+.card_homepage_top h5 {
   text-align: center;
+  color: white ;
+}
+
+.card_homepage_top_section h2 {
+  text-align: center;
+  color: #6F5329 ;
+  font-family: 'Myriad Pro';
+  font-size: 1.8vw;
+  text-transform: uppercase;
+}
+
+.whitehole h4 {
+  text-align: center;
+  color: #6F5329  ;
+  font-size: 1.7vw;
+}
+
+.whitehole_unik h4 {
+  text-align: center;
+  color: #6F5329  ;
+  font-size: 1.7vw;
+}
+
+.dalamcard_text_homepage h5 {
+  margin-bottom: 1.8vw;
+  line-height: 2.3vw;
+}
+
+.dalamcard_text_homepage h4 {
+  margin-bottom: 1.8vw;
+  line-height: 2.3vw;
+}
+
+.whitehole_nav h4 {
+  text-align: center;
+  color: #6F5329  ;
+  font-size: 1.2vw;
+  /*font-weight: bold;*/
+}
+
+.whitehole_nav_page2 h4 {
+  text-align: center;
+  color: #261A09 ;
+  font-size: 1.3vw;
+  font-weight: bold;
+}
+
+.dalamcard_page2_top h1 {
+  text-align: center;
+  color: #6F5329  ;
+  margin-bottom: 0.2vw;
+  font-size: 5vw;
+}
+
+.dalamcard_page2_top h2 {
+  text-align: center;
+  color: #6F5329  ;
+  font-size: 2vw;
+}
+
+.dalamcard_page2_top_header h3 {
+  line-height: 2.6vw;
+  margin-bottom: 1.7vw;
+  font-size: 2vw;
+  /*text-align: center;*/
+}
+
+
+.card_nomor_page2 h2 {
+  text-align: center;
+  font-size: 4vw;
+  font-weight: normal;
+  padding-top: 1.2vw;
   color: white;
 }
+
+/*
+.card_text_page2_triplet h4 {
+  padding-top: 0.7vw;
+  line-height: 1.4vw;
+  font-size : 1.05vw;
+  color: gray;
+}
+*/
+
+.text_panjang h4 {
+  font-size: 1.35vw;
+  color: gray;
+}
+
+.dalamcard_page3_top h1 {
+  text-align: center;
+  color: #6F5329  ;
+  margin-bottom: 0.2vw;
+  font-size: 5vw;
+}
+
+.dalamcard_page3_top h2 {
+  text-align: center;
+  color: #6F5329  ;
+  font-size: 2vw;
+}
+
+.dalamcard_page3_top_header h3 {
+  font-size: 1.75vw;
+  line-height: 2.4vw;
+  color: #4A4A4A  ;
+}
+
+.dalamcard_page3_top_header_right h3 {
+  font-size: 1.75vw;
+  line-height: 2.4vw;
+  color: #4A4A4A  ;
+}
+
+.card_nomor_page3 h2 {
+  text-align: center;
+  font-size: 4vw;
+  font-weight: normal;
+  padding-top: 1.2vw;
+  color: white;
+}
+
+.dalamcard_page4_top h1 {
+  text-align: center;
+  color: #6F5329  ;
+  margin-bottom: 0.2vw;
+  font-size: 5vw;
+  /*color: white;*/
+}
+
+.dalamcard_page4_top h2 {
+  text-align: center;
+  color: #6F5329  ;
+  font-size: 2vw;
+}
+
+.dalamcard_page5_top h1 {
+  text-align: center;
+  color: #6F5329  ;
+  margin-bottom: 0.2vw;
+  font-size: 5vw;
+  /*color: white;*/
+}
+
+.dalamcard_page5_top h2 {
+  text-align: center;
+  color: #6F5329  ;
+  font-size: 2vw;
+}
+
 
 @media (max-width: 1024px) {
   
-  h1 {
-    font-family: 'Segoe-UI', Sans-Serif;
-    font-size: 12vw;
-    text-transform: uppercase;
-  }
   
-  h2 {
-    font-family: 'Calibri', Sans-Serif;
-    font-size: 2.8vw;
-    text-transform: uppercase;
-    padding-bottom: 10px;
-  }
-  
-  h3 {
-    font-family: 'Calibri', Sans-Serif;
-    text-transform: uppercase;
-    font-size: 1.5vw;
-  }
-  
-  p {
-    font-family: Sans-Serif;
-    font-size: 1.5vw;
-    padding-bottom: 0.5vh;
-  }
-  
-  .card.wide h2 {
-    text-align: center;
-    font-size: 6vw;
-  }
-  
-    .card.widen h2 {
-    text-align: center;
-    font-size: 6vw;
-  }
-  
-    .card.widen p {
-    font-family: Sans-Serif;
-    font-size: 1.5vw;
-    padding-bottom: 1.5vh;
-  }
-  
-    .card.wider h2 {
-    text-align: center;
-    font-size: 6vw;
-  }
-  
-  .main_containerz h1 {
+.whitehole h4 {
+  padding-top: 0.9vw;
   text-align: center;
-  
+  color: #6F5329  ;
+  font-size: 3.2vw;
 }
 
-  
+.whitehole_unik h4 {
+  padding-top: 0.9vw;
+  text-align: center;
+  color: #6F5329  ;
+  font-size: 3.2vw;
 }
 
+.dalamcard_text_homepage h5 {
+  margin-bottom: 2.2vw;
+  line-height: 3.2vw;
+  font-size: 2.4vw;
+}
+
+.dalamcard_text_homepage h4 {
+  margin-bottom: 2.2vw;
+  line-height: 3.2vw;
+  font-size: 2.4vw;
+}
+
+.main_container_homepage h1 {
+  padding-top: 2.5vw;
+  margin-bottom: -4vw;
+}
+
+.dalamcard_page2_top h1 {
+  text-align: center;
+  color: #6F5329  ;
+  margin-bottom: 0.2vw;
+  font-size: 7vw;
+}
+
+.dalamcard_page2_top h2 {
+  text-align: center;
+  color: #6F5329  ;
+  margin-bottom: 0.5vw;
+  font-size: 3vw;
+}
+
+.dalamcard_page2_top_header h3 {
+  line-height: 3vw;
+  margin-bottom: 1.7vw;
+  font-size: 2.5vw;
+  /*text-align: center;*/
+}
+
+.text_panjang h4 {
+  font-size: 2vw;
+  color: gray;
+}
+
+.dalamcard_page3_top h1 {
+  text-align: left;
+  color: #6F5329  ;
+  margin-bottom: 0.2vw;
+  font-size: 5vw;
+}
+
+.dalamcard_page3_top h2 {
+  text-align: left;
+  color: #6F5329  ;
+  font-size: 2vw;
+  margin-left: 1vw;
+}
 
