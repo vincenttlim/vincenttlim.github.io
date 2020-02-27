@@ -286,3 +286,11 @@ p {
   margin-left: 1vw;
 }
 
+
+.whitehole_nav h4 {
+  text-align: center;
+  color: #6F5329  ;
+  font-size: 1.2vw;
+  /*font-weight: bold;*/
+  margin-bottom: 5vw;
+}

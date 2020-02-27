@@ -210,7 +210,7 @@ nav2 {
 /**/
 .main_container_homepage2 {
   width: 100vw;
-  height: 135vw;
+  height: 145vw;
   margin-left: auto;
   margin-right: auto;
   background-image: url('../image/bghome2.jpg');
@@ -618,7 +618,7 @@ nav2 {
 
 .main_container_page5 {
   width: 100vw;
-  height: 135vw;
+  height: 140vw;
   margin-left: auto;
   margin-right: auto;
   background-image: url('../image/bghome2.jpg');
@@ -800,7 +800,7 @@ nav {
 
 .gifkupu2 {
   position: absolute;
-  margin-top: 63vw;
+  margin-top: 58vw;
   margin-left : 58vw;
   margin-right : 32vw;
   width: 10vw;
@@ -818,7 +818,7 @@ nav {
   width: 7.8vw;
   padding-left: 2.5vw;
   padding-right: 2.5vw;
-  margin-top : 3.4vh;
+  margin-top : 30%;
   margin-left: auto;
   margin-right: auto;
   /*background-color: brown;*/
@@ -1171,3 +1171,4 @@ nav {
   background-position: center center;
   background-size: contain ;
 }
+
